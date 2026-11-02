@@ -9,9 +9,13 @@
 <sub>Lleida, Spain</sub>
 
 <br/>
+<a href="https://www.linkedin.com/in/axel-arroyo-gim%C3%A9nez-aa505229b/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-arroyo-gim%C3%A9nez-aa505229b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://axelitodev.netlify.app)
+<a href="https://axelitodev.netlify.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
