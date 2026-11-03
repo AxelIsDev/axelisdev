@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://axelitodev.netlify.app" target="_blank" rel="noopener noreferrer">
+<a href="https://axelarroyo.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
 </a>
 
