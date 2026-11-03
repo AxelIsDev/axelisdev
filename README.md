@@ -3,13 +3,13 @@
 # Axel
 
 <a href="https://github.com/Blu3Hunter">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&height=36&lines=Software+Developer;Angular+%26+TypeScript+in+production;Growing+into+C%23+%26+.NET;Exploring+LLMs+and+AI+agents" alt="Software Developer. Angular and TypeScript in production. Growing into C# and .NET. Exploring LLMs and AI agents." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=FF3030&center=true&vCenter=true&width=560&height=36&lines=Software+Developer;Angular+%26+TypeScript+in+production;Growing+into+C%23+%26+.NET;Exploring+LLMs+and+AI+agents" alt="Software Developer. Angular and TypeScript in production. Growing into C# and .NET." />
 </a>
 
 <sub>Lleida, Spain</sub>
 
 <br/>
-<a href="https://www.linkedin.com/in/axel-arroyo-gim%C3%A9nez-aa505229b/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/axelarroyo" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -54,7 +54,6 @@ I build web applications with **Angular and TypeScript**, and I've integrated RE
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 <br/>
@@ -63,6 +62,7 @@ I build web applications with **Angular and TypeScript**, and I've integrated RE
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/>
 
